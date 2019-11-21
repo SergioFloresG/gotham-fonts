@@ -1,4 +1,4 @@
-/* (Gotham-Ultra)             weight: 500,      style: normal */
+/* (Gotham-Ultra)             weight: normal,      style: normal */
 
 @font-face {
   font-family: 'Gotham Ultra';
@@ -14,7 +14,7 @@
   font-display: block;
 }
 
-/* (Gotham-Ultra)             weight: 500,      style: italic */
+/* (Gotham-Ultra)             weight: normal,      style: italic */
 @font-face {
   font-family: 'Gotham Ultra';
   src: url('../webfonts/Gotham-UltraItalic.eot');
