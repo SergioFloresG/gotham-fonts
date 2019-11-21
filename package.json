@@ -25,7 +25,7 @@
   "homepage": "https://github.com/SergioFloresG/gotham-fonts#readme",
   "license": "MIT",
   "scripts": {
-    "build": "postcss css --dir css-dist --ext .min.css"
+    "build": "postcss css --dir dist --ext .min.css"
   },
   "devDependencies": {
     "cssnano": "^4.1.10",
