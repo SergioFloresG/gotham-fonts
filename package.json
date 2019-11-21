@@ -1,0 +1,34 @@
+{
+  "name": "gotham-fonts",
+  "version": "1.0.0",
+  "description": "A npm module fot Gotham Fonts",
+  "keywords": [
+    "gotham",
+    "gotham medium",
+    "gotham ultra",
+    "gotham xlight",
+    "gotham black",
+    "font",
+    "fonts"
+  ],
+  "author": {
+    "name": "Sergio Flores Genis",
+    "url": "https://github.com/SergioFloresG"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioFloresG/gotham-fonts.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SergioFloresG/gotham-fonts/issues"
+  },
+  "homepage": "https://github.com/SergioFloresG/gotham-fonts#readme",
+  "license": "MIT",
+  "scripts": {
+    "build": "postcss css --dir css-dist --ext .min.css"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10",
+    "postcss-cli": "^6.1.3"
+  }
+}
